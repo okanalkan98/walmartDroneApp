@@ -10,8 +10,8 @@ Assumptions:
 5- Drone can be loaded one order at a time.
 6- No load or unload time.
 7- Drone flies on the shortest route (hypotenuse) between warehouse and customer location.
-8- Drone can deliver up to infinitive distance.
-9- Number of orders and order time are known at 6 a.m. and do not change during the day.
+8- Drone can deliver up to 12 hours distance.
+9- All orders are supposed to be ready for shipment before 6 a.m.
 11- Drone does not pick up the order if it will back to the Warehouse after 10 p.m.
 12- Same set of data will be used for all scheduling approaches to achieve equal comparison. 
 13- The comparison will be implemented for below four scheduling approaches; 
